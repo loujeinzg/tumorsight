@@ -16,3 +16,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+data_binary/
+data_binary_splits/
+data_stages/
+data_stages_splits/
