@@ -1,5 +1,4 @@
-FROM tensorflow/tensorflow:2.12.0-gpu
-
+FROM tensorflow/tensorflow:2.12.0
 WORKDIR /app
 
 # System dependencies for OpenCV
